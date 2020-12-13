@@ -7,13 +7,13 @@ This is an app to help with alcohol delivery, this is going to help customers st
 -  Labious
 - [ ] Create Signup page with front end validation- The customer should be able to register their account 
 - Labious 
-- [x] Create a Landing page - the landing page describes the objective of the application
+- [ ] Create a Landing page - the landing page describes the objective of the application
 -  Labious
 - [ ] Create Home page - This will contain the location based search with the nearest liquor store  
 -Labious
 
 **### Back end**
-- [x] Create server for redirections 
+- [ ] Create server for redirections 
 - Kat 
 - [ ] Create the data model
 - Kat 
@@ -21,9 +21,9 @@ This is an app to help with alcohol delivery, this is going to help customers st
 - Kat
 
 **### UI/UX + Marketing & Business Case **
-- [x] Create a logo
+- [ ] Create a logo
 - Darren
-- [x] Create business case/plan
+- [ ] Create business case/plan
 - Darren
-- [x] Create Marketing plan 
+- [ ] Create Marketing plan 
 - Darren
